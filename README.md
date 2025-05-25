@@ -1,16 +1,30 @@
-# newflutter
+# 🛍️ Flutter E-Commerce App
 
-A new Flutter project.
+A modern, responsive e-commerce mobile app built using **Flutter** and powered by the [Fake Store API](https://fakestoreapi.com/). This app allows users to browse products, filter by category, view product details, and optionally add products to a cart.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Fetch & display products from REST API
+- ✅ Filter products by category
+- ✅ Show product details on tap
+- ✅ Loading indicators for API calls
+- ✅ Clean folder structure (Models, Services, Screens, Widgets)
+- ✅ Responsive design for all screen sizes
+- ✅ Modern UI using Flutter widgets
 
-A few resources to get you started if this is your first Flutter project:
+**Optional Add-ons:**
+- 🛒 Cart screen with a floating action button
+- 📦 State management with **Provider** or **Riverpod**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
+
+## 🔗 Demo Video
+
+[![Watch Demo]([(https://www.youtube.com/shorts/l-3epBG58J8))
+
+
+
+
+
