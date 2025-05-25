@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="1024" height="1024" rx="512" fill="#5C6BC0"/>
+    
+    <!-- Shopping Bag -->
+    <path d="M312 362C312 282.471 376.471 218 456 218H568C647.529 218 712 282.471 712 362V422H312V362Z" fill="white" fill-opacity="0.9"/>
+    <path d="M262 422C240.461 422 223 439.461 223 461V731C223 774.63 258.37 810 302 810H722C765.63 810 801 774.63 801 731V461C801 439.461 783.539 422 762 422H262Z" fill="white"/>
+    
+    <!-- Letter E -->
+ 
