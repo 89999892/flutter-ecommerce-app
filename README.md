@@ -22,8 +22,7 @@ A modern, responsive e-commerce mobile app built using **Flutter** and powered b
 
 ## 🔗 Demo Video
 
-[![Watch Demo]([(https://www.youtube.com/shorts/l-3epBG58J8))]
-
+🎥 [Watch the demo on YouTube Shorts](https://www.youtube.com/shorts/l-3epBG58J8)
 
 
 
